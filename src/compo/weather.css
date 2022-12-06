@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0;
+}
+#main {
+    margin: auto;
+    width: 600px;
+}
+#button {
+    background-color: #00cc00;
+    color: #ffffff;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
